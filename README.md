@@ -85,6 +85,8 @@ make
 
 ### Simulação no Wokwi
 - Utilize o arquivo `diagram.json` na pasta `wokwi` para testar o funcionamento.
+⚠️ **OBS:** Certifique-se de compilar o código como descrito na seção ["3. Compilando e Enviando o Código"](caminho-para-secao) **antes** de abrir o JSO.
+
 
 ---
 

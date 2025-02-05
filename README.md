@@ -67,6 +67,7 @@ timer-oneshop/
 
 ```bash
 git clone https://github.com/brunoschumacherf/timer-oneshot
+cd timer-oneshot
 ```
 
 ### 3. Compilando e Enviando o Código
@@ -80,5 +81,14 @@ make
 
 ---
 
+## 🛠 Testes e Simulação
+
+### Simulação no Wokwi
+- Utilize o arquivo `diagram.json` na pasta `wokwi` para testar o funcionamento.
+
+---
+
 _Desenvolvido por Bruno Schumacher_
+
+---
 

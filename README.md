@@ -85,7 +85,7 @@ make
 
 ### Simulação no Wokwi
 - Utilize o arquivo `diagram.json` na pasta `wokwi` para testar o funcionamento.
-- ⚠️ **OBS:** Certifique-se de compilar o código como descrito na seção ["3. Compilando e Enviando o Código"](##-compilando-e-enviando-o-código) **antes** de abrir o JSON.
+- :warning: **OBS:** É necessário instalar a extensão Wowki e autenticar. Certifique-se de compilar o código como descrito na seção ["3. Compilando e Enviando o Código"](##-compilando-e-enviando-o-código) **antes** de abrir o JSON.
 
 
 ---
